@@ -11,9 +11,9 @@ My configuration files with installation script.
 ### Installation
 Just run:
 
->cd ~
->git clone https://github.com/mnatan/dotfiles
->cd dotfiles
+>cd ~  
+>git clone https://github.com/mnatan/dotfiles  
+>cd dotfiles  
 >./install.sh in git directory
 
 It will create directory with your old configs and create links to mine within ~/dotfiles. Do not remove it!
